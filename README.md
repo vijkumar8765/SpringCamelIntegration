@@ -45,5 +45,3 @@ curl --location --request POST 'http://localhost:9090/saveEmployee' \
 Response:
 
 "{\n  \"id\" : null,\n  \"name\" : \"Testing\",\n  \"age\" : 23\n}"
-
-Validtion is not handled properly but a JsonValidation Error is thrown in the logs for id parameter which is set to null and is a required as per the json schema.
