@@ -16,7 +16,7 @@
 		<apache.camel.version>2.21.1</apache.camel.version>
 		<lombok.version>1.18.12</lombok.version>
 		<jackson.version>2.9.5</jackson.version>
-		<spring.version>1.5.12.RELEASE</spring.version>
+		<spring.version>2.5.12</spring.version>
 	</properties>
 
 	<dependencies>
